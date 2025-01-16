@@ -13,5 +13,5 @@ In this repository, you’ll find the codebase behind our portfolio, showcasing 
 
 ### Let’s Collaborate
 
-Whether you’re starting fresh or need a website refresh, **Cachey Webworks** is here to help your brand stand out.  
-**Cachey Webworks: Where creativity, technology, and small businesses meet.**
+Whether you’re starting fresh or need a website refresh, **Outside Worx** is here to help your brand stand out.  
+**Outside Worx: Where creativity, technology, and small businesses meet.**
