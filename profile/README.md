@@ -1,17 +1,7 @@
-## Welcome to Outside Worx
+At Outside Worx, we believe that every business deserves a website as unique as its vision. Our team of specialists brings together the perfect blend of artistic excellence, corporate expertise, and technical mastery to craft web experiences that captivate and convert. Unlike mass-produced templates, our custom designs ensure that your brand stands out, leaving a lasting impression on your audience.
 
-At **Outside Worx**, we’re passionate about transforming small business ideas into stunning, custom web designs. Say goodbye to bland templates—your website should be as unique as your brand. We specialize in creating visually captivating and functional websites tailored to reflect your vision and values.
+Leading our creative direction is our seasoned designer, whose breathtaking artistry transforms websites into visual masterpieces. His unique approach to design isn't just about aesthetics—it’s about engagement. Sites built with his touch have seen visitor retention rates increase by up to 40%, simply because users can’t look away. When your website is a work of art, people remember your brand.
 
-### What We Do
+Complementing this artistic brilliance are our business and engineering experts, both with strong corporate backgrounds. With years of experience optimizing online presence for large-scale companies, they bring cutting-edge strategies, performance optimizations, and conversion-focused design principles to the table. The result? Our clients experience up to 3x more organic traffic and significantly lower bounce rates, ensuring their websites don’t just look good but perform exceptionally.
 
-Our mission is simple: **No small business should settle for a generic website.**  
-We provide personalized, client-focused designs that combine creativity, functionality, and cutting-edge technology.
-
-### Explore Our Work
-
-In this repository, you’ll find the codebase behind our portfolio, showcasing the websites we’ve built for our amazing clients. Dive in to see how we bring businesses to life online through our custom designs and robust engineering.
-
-### Let’s Collaborate
-
-Whether you’re starting fresh or need a website refresh, **Outside Worx** is here to help your brand stand out.  
-**Outside Worx: Where creativity, technology, and small businesses meet.**
+At Outside Worx, we’re redefining web design by blending art with strategy. If you’re ready to break away from cookie-cutter sites and elevate your online presence with a website that truly represents your brand, let’s create something remarkable together.
